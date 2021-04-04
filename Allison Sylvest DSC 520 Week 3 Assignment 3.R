@@ -1,6 +1,6 @@
 # Assignment: ASSIGNMENT 3
 # Name: Sylvest, Allison
-# Date: 2010-04-04
+# Date: 2021-04-04
 
 ## Load the ggplot2 package
 library(ggplot2)
