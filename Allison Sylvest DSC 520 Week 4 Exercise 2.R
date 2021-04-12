@@ -3,7 +3,7 @@
 # Date: 2021-04-11
 
 library(readxl)
-week_6_housing <- read_excel("week-6-housing.xlsx")
+week_6_housing <- read_excel("C:/Users/sylve/Downloads/week-6-housing.xlsx")
 View(week_6_housing)
 str(week_6_housing)
 nrow(week_6_housing)
@@ -58,4 +58,4 @@ serial_no<-c(1:12865)
 
 new_df<-data.frame(serial_no,week_6_housing,country)
 head(new_df)
-
+tinytex::install_tinytex()
